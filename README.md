@@ -318,6 +318,3 @@ To deploy this project run
 ```
 
 
-## Demo
-
-Live Demo https://demo.com/
